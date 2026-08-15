@@ -8,9 +8,16 @@
     },
     {
         "id": 102,
-        "name": "khan",
+        "name": "faizan",
         "age": 21,
-        "class": "4",
-        "marks": 87
+        "class": "BSCS",
+        "marks": 99
+    },
+    {
+        "id": 103,
+        "name": "imran khan",
+        "age": 73,
+        "class": "BSCS",
+        "marks": 99
     }
 ]
