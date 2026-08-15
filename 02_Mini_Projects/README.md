@@ -1,4 +1,4 @@
-# 🚀 Python Mini Projects
+#  Python Mini Projects
 
 This section contains practical Python projects designed to apply programming concepts learned in the Fundamentals section.
 
@@ -13,16 +13,37 @@ The projects focus on improving:
 
 ---
 
-## Current Projects
+##  Projects
 
-- Student Management System *(In Progress)*
+- 1. Student Management System.
+- 2. CSV_Reader
 
 More projects will be added as the learning journey continues.
 
 ---
 
+#  Author
+
+**Mian Muhammad Faizan**
+
+Computer Science Student
+
+GitHub:
+https://github.com/faizanmuhammadmian
+
+LinkedIn:
+https://www.linkedin.com/in/mian-muhammad-faizan
+
+---
+
+
 ## Goal
 
 These projects bridge the gap between theory and practical software development while preparing for larger applications and advanced technologies.
 
-Happy Coding! 🚀
+Happy Coding!
+ 
+---
+
+ If you found this projects useful, consider giving it a star.
+
