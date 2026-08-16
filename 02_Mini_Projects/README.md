@@ -17,6 +17,7 @@ The projects focus on improving:
 
 - 1. Student Management System.
 - 2. CSV_Reader
+- 3. En_decryption
 
 More projects will be added as the learning journey continues.
 
